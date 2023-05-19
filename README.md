@@ -11,7 +11,7 @@ AI is implemented using the [minimax algorithm](https://en.wikipedia.org/wiki/Mi
 
 The user is 'b', and the AI is 'r'. Follow the directions stated by the program to move. 
 ## Example Game
-
+```
 0:           
 1:           
 2:           
@@ -123,3 +123,4 @@ r moved from D0
 4:           
    A B C D E
 AI wins! Game over.
+```
